@@ -2,4 +2,8 @@ Colegio Estadual Joao de faria Pioli
 
 Nomes; Jennefer e Ana Clara
 
-Projeto de pensamento Computacional
+Turma; 1 ano A
+
+Projeto de Pensamento Computacional
+
+Esse site é sobre uma loja de produtos de cosmedicos 
